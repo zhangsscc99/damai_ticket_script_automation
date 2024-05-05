@@ -1,0 +1,12 @@
+{
+  "sess": 1,
+  "price": [4],
+  "ticket_num": 2,
+  "viewer_person": [1,2],
+  "damai_url": "https://www.damai.cn/",
+  "target_url": "https://m.damai.cn/shows/item.html?from=false&itemId=778351148105&sqm=dianying.h5.unknown.value&spm=a2o71.project.0.center",
+  "driver_path": "C:\\Users\\zhang\\Desktop\\multi_thread_damai_script\\chromedriver.exe",
+  "chrome_path": "C:\\Users\\zhang\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
+  "ports": [9222],
+  "switch": "N"
+}
